@@ -1,0 +1,17 @@
+This file sharing client, BUtorrent 1.0, builds on the classic implementation of BitTorrent. 
+BUTorrent 1.0 differs from BitTorrent mainly in the seed scheduling algorithm applied at the seed. 
+
+Details of the algorithm and of the protocol were presented at:
+The 8th IEEE International Symposium on Network Computing and Applications, Boston, MA  9 - 11 July 2009.
+in a paper entitled:
+ "Seed Scheduling for Peer-to-Peer Networks"
+by 
+Flavio Esposito, 
+Ibrahim Matta, 
+Pietro Michiardi, 
+Nobuyuki Mitsutake,
+Damiano Carra
+
+
+Additional info can be found at:
+http://csr.bu.edu/butorrent/
